@@ -3,6 +3,8 @@ Collection of my source code about data analyst/engineer from multiple online co
 
 ## Tools
 - Python and its API (Pandas, matplotlib, etc)
+- IBM Watson Machine
+- IBM DB2 (Databases)
 - PostgreSQL (Relational database)
 - Jupyter Notebook
 - Visual Studio Code
